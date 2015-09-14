@@ -19,6 +19,15 @@ public class CPD3314Assign1 {
         
         System.out.println("Hello World!");
         
+        /*****************************************************************/
+        
+        /* Assignment1 
+         * http://www.indeed.ca/cmp/Tundra-Technical-Solution/jobs/Java-Developer-a72a26996f875cbe?q=java
+         * Java developer, Ottawa
+         * Java/J2ee
+         * J2ee - Java Enterprise Edition
+         */
+        
         
         
     }
