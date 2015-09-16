@@ -1,38 +1,31 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
-package cpd3314.assign1;
 
+package cpd3314.assign1;
 /**
- *
- * @author c0663965
+ * Name : Kihoon, Lee 
+ * Stduent Id: c0663965 
  */
 public class CPD3314Assign1 {
 
-    /**
-     * @param args the command line arguments
-     */
     public static void main(String[] args) {
         // TODO code application logic here
         
-        System.out.println("Hello World!");
+        System.out.println("My first Assignment");
         
-        /*****************************************************************/
+        /* Assignment1
         
-        /* Assignment1 
-         * Job posting
-         *
-         *
-         * http://www.indeed.ca/cmp/Tundra-Technical-Solution/jobs/Java-Developer-a72a26996f875cbe?q=java
-         * Java developer, Ottawa
-         * Java/J2ee
-         * J2ee - Java Enterprise Edition
-         */
+          1. Java developer, Ottawa (http://www.indeed.ca/cmp/Tundra-Technical-Solution/jobs/Java-Developer-a72a26996f875cbe?q=java)
+
         
-        /*** TEST ****////
+          2. Term : J2ee : Java Enterprise Edition is a widely used enterprise computing platform developed 
+                           under the Java Community Process. 
         
-    }
-    
+          3. Average salary 
+        
+            1) Toronto - $69,000          in www.glassdoor.com/Salaries/toronto-java-developer-salary-SRCH_IL.0,7_IM976_KO8,22.htm
+            2) Vancouver - $98,000        in www.indeed.com/salary/q-Java-Developer-l-Vancouver,-WA.html
+            3) Waterloo -$87,567          in www.payscale.com/research/CA/Job=Senior_Software_Engineer/Salary/ea54d03c/Waterloo-ON
+        
+        */
+
+        }
 }
