@@ -15,7 +15,7 @@ public class CPD3314Assign1 {
           1. Java developer, Ottawa (http://www.indeed.ca/cmp/Tundra-Technical-Solution/jobs/Java-Developer-a72a26996f875cbe?q=java)
 
         
-          2. Term : J2ee : Java Enterprise Edition is a widely used enterprise computing platform developed 
+          2. Technology Term : J2ee : Java Enterprise Edition is a widely used enterprise computing platform developed 
                            under the Java Community Process. 
         
           3. Average salary 
