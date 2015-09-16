@@ -7,9 +7,8 @@ package cpd3314.assign1;
 public class CPD3314Assign1 {
 
     public static void main(String[] args) {
-        // TODO code application logic here
         
-        System.out.println("My first Assignment");
+        System.out.println("My first Assignment in the CPD3314 course");
         
         /* Assignment1
         
